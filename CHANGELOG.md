@@ -1,3 +1,16 @@
+# v1.3.0 (Mon Apr 04 2022)
+
+#### 🚀 Enhancement
+
+- mmm22222222 [#16](https://github.com/ivanenko/test_auto/pull/16) ([@ivanenko](https://github.com/ivanenko))
+- mmm111111 [#15](https://github.com/ivanenko/test_auto/pull/15) ([@ivanenko](https://github.com/ivanenko))
+
+#### Authors: 1
+
+- Ivanenko Danil ([@ivanenko](https://github.com/ivanenko))
+
+---
+
 # v1.2.0 (Mon Apr 04 2022)
 
 #### 🚀 Enhancement
