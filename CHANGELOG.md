@@ -1,3 +1,15 @@
+# v1.3.2 (Tue Apr 05 2022)
+
+#### 🐛 Bug Fix
+
+- mmmmm 333333333 [#18](https://github.com/ivanenko/test_auto/pull/18) ([@ivanenko](https://github.com/ivanenko))
+
+#### Authors: 1
+
+- Ivanenko Danil ([@ivanenko](https://github.com/ivanenko))
+
+---
+
 # v1.3.1 (Tue Apr 05 2022)
 
 #### 🐛 Bug Fix
