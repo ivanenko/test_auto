@@ -1,3 +1,19 @@
+# v1.4.0 (Tue Apr 05 2022)
+
+#### 🚀 Enhancement
+
+- a 222 [#20](https://github.com/ivanenko/test_auto/pull/20) ([@ivanenko](https://github.com/ivanenko))
+
+#### 🐛 Bug Fix
+
+- a 11111 [#19](https://github.com/ivanenko/test_auto/pull/19) ([@ivanenko](https://github.com/ivanenko))
+
+#### Authors: 1
+
+- Ivanenko Danil ([@ivanenko](https://github.com/ivanenko))
+
+---
+
 # v1.3.2 (Tue Apr 05 2022)
 
 #### 🐛 Bug Fix
