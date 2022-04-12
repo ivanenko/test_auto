@@ -1,1 +1,8 @@
-updated Changelog.md here +++, version 1.1.1
+#### 🐛 Bug Fix 
+
+- dsfsdf (ivanenko)
+
+
+#### Authors 
+
+- Ivanenko Danil
