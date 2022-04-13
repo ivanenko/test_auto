@@ -1,15 +1,12 @@
-# v0.1.0 (Tue Mar 22 2022)
+#### 🚀 Enhancement 
 
-#### 🚀 Enhancement
+- release changes for zz3 (ivanenko)
+#### 🐛 Bug Fix 
 
-- update new file [#2](https://github.com/ivanenko/test_auto/pull/2) ([@ivanenko](https://github.com/ivanenko))
+- next commit message eee zz2 (ivanenko)
+- dsfsdf (ivanenko)
 
-#### ⚠️ Pushed to `next`
 
-- Merge branch 'next' of https://github.com/ivanenko/test_auto into next (ivanenko.danil@gmail.com)
-- Initial commit ([@ivanenko](https://github.com/ivanenko))
+#### Authors 
 
-#### Authors: 2
-
-- Danil Ivanenko (ivanenko.danil@gmail.com)
-- Ivanenko Danil ([@ivanenko](https://github.com/ivanenko))
+- Ivanenko Danil
